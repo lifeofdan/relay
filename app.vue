@@ -1,7 +1,7 @@
 <template>
   <div>
-    <MainNavbar />
     <div class="container mx-auto mt-8">
+      <MainNavbar />
       <NuxtPage />
     </div>
   </div>
